@@ -11,8 +11,8 @@ const concertThis = (searchTerm) => {
         const data = JSON.parse(body);
 
         console.log(`
-Concerts for ${searchTerm} till year end.
-------------------------------------------------------`)
+Concerts for ${searchTerm}
+--------------------------------------------------`)
         data.forEach((key) => {
             console.log(`
 Venue    : ${key.venue.name}
