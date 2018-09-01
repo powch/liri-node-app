@@ -1,5 +1,7 @@
 const concertThis = require('./assets/javascripts/concert-this');
 const spotifyThis = require('./assets/javascripts/spotify-this-song');
+const movieThis = require('./assets/javascripts/movie-this');
+const doWhatItSays = require('./assets/javascripts/do-what-it-says');
 
 const searchArr = process.argv;
 const searchSplice = searchArr.splice(0, 3);

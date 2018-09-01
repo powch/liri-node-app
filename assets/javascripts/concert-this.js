@@ -11,16 +11,14 @@ const concertThis = (searchTerm) => {
         const data = JSON.parse(body);
 
         console.log(`
-Concerts for ${searchTerm}
--------------------------------------------------`)
-        data.forEach((key, idx) => {
-            if (idx <= 2) {
-                console.log(`
+Concerts for ${searchTerm} till year end.
+------------------------------------------------------`)
+        data.forEach((key) => {
+            console.log(`
 Venue    : ${key.venue.name}
 Location : ${key.venue.city} ${key.venue.region}
 Date     : ${moment(key.datetime).format('MM-DD-YYYY')}
-                `)
-            }
+            `);
         });
     });
 }
