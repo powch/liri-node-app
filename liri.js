@@ -19,7 +19,7 @@ switch (command) {
         break;
 
     case 'movie-this':
-
+        movieThis.movie(searchTerm);
         break;
 
     case 'do-what-it-says':
