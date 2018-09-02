@@ -10,16 +10,20 @@ const concertThis = (searchTerm) => {
 
         const data = JSON.parse(body);
 
-        console.log(`
+        if (data.length === 0) {
+            console.log('No tour dates found!');
+        } else {
+            console.log(`
 Concerts for ${searchTerm}
 --------------------------------------------------`)
-        data.forEach((key) => {
-            console.log(`
+            data.forEach((key) => {
+                console.log(`
 Venue    : ${key.venue.name}
 Location : ${key.venue.city} ${key.venue.region}
 Date     : ${moment(key.datetime).format('MM-DD-YYYY')}
             `);
-        });
+            });
+        }
     });
 }
 
