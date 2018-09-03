@@ -1,5 +1,6 @@
 const moment = require('moment');
 const request = require('request');
+const append = require('./append');
 
 
 const concertThis = (searchTerm) => {
@@ -17,11 +18,13 @@ const concertThis = (searchTerm) => {
 Concerts for ${searchTerm}
 --------------------------------------------------`)
             data.forEach((key) => {
-                console.log(`
+                const loggedResults = `
 Venue    : ${key.venue.name}
 Location : ${key.venue.city} ${key.venue.region}
 Date     : ${moment(key.datetime).format('MM-DD-YYYY')}
-            `);
+                `;
+                console.log(loggedResults);
+                append.appendResults(loggedResults, 'concert-this');
             });
         }
     });

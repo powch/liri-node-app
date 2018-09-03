@@ -10,8 +10,8 @@
             "name": "Launch Program",
             "program": "${workspaceFolder}/liri.js",
             "args": [
-                "concert-this",
-                "periphery"
+                "movie-this",
+                "bourne identity"
             ]
         }
     ]

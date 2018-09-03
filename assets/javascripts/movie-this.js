@@ -1,4 +1,5 @@
 const request = require('request');
+const append = require('./append');
 
 const movieThis = (searchTerm) => {
     const searchArr = searchTerm.split(' ');
@@ -12,7 +13,7 @@ const movieThis = (searchTerm) => {
 
         const dataObj = JSON.parse(data);
 
-        console.log(`
+        const loggedResults = `
 Title           :   ${dataObj.Title}
 Year            :   ${dataObj.Year}
 IMDB            :   ${dataObj.imdbRating}
@@ -21,7 +22,11 @@ Country         :   ${dataObj.Country}
 Language        :   ${dataObj.Language}
 Plot            :   ${dataObj.Plot}
 Actors          :   ${dataObj.Actors}
-        `);
+        `;
+
+        console.log(loggedResults);
+        
+        append.appendResults(loggedResults, 'movie-this');
     });
 }
 
