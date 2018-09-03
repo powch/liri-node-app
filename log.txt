@@ -6,3 +6,204 @@ Song Preview  : https://p.scdn.co/mp3-preview/c3f2824b85fbc1759a2d1d2cbaf4604ab1
 Album         : Ritual
             
         ---------------------------------------------
+Results from movie-this:
+        
+Title           :   School of Rock
+Year            :   2003
+IMDB            :   7.1
+Rotten Tomatoes :   91%
+Country         :   USA, Germany
+Language        :   English
+Plot            :   After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.
+Actors          :   Jack Black, Adam Pascal, Lucas Papaelias, Chris Stack
+        
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Blue Ridge Rock Festival
+Location : Concord VA
+Date     : 09-01-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Manchester Music Hall
+Location : Lexington KY
+Date     : 09-17-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Fubar
+Location : St. Louis MO
+Date     : 09-19-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : The Forge
+Location : Joliet IL
+Date     : 09-18-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Canton Hall
+Location : Dallas TX
+Date     : 09-21-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Jake's Backroom
+Location : Lubbock TX
+Date     : 09-23-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Neighborhood Theatre
+Location : Charlotte NC
+Date     : 09-26-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : The Concourse
+Location : Knoxville TN
+Date     : 09-27-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : The V Club
+Location : Huntington WV
+Date     : 09-28-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : AT&T Center
+Location : San Antonio TX
+Date     : 09-22-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Scout Bar
+Location : Houston TX
+Date     : 09-24-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Kuttawa Festival Grounds
+Location : Kuttawa KY
+Date     : 10-06-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Engine Rooms
+Location : Southampton 
+Date     : 12-01-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Manchester Academy 2
+Location : Manchester 
+Date     : 12-04-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Electric Brixton
+Location : Brixton 
+Date     : 12-02-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Rock City
+Location : Nottingham 
+Date     : 12-06-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Glazart
+Location : Paris 
+Date     : 12-09-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : The Garage
+Location : Glasgow 
+Date     : 12-05-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Columbia Theater
+Location : Berlin 
+Date     : 12-11-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Luxor
+Location : Cologne 
+Date     : 12-10-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Firlej
+Location : Wrocław 
+Date     : 12-14-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Meet Factory
+Location : Prague 
+Date     : 12-13-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Backstage Halle
+Location : Munich 
+Date     : 12-17-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Flex
+Location : Innere Stadt 
+Date     : 12-15-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Kiff
+Location : Aarau 
+Date     : 12-18-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : Melweg OZ
+Location : Amsterdam 
+Date     : 12-19-2018
+                
+        ---------------------------------------------
+Results from concert-this:
+        
+Venue    : SWX
+Location : Bristol 
+Date     : 12-07-2018
+                
+        ---------------------------------------------

@@ -7,8 +7,6 @@ const appendResults = (loggedResults, passedCommand) => {
         (err) => {
             if (err) {
                 console.log(err);
-            } else {
-                console.log('Append successful!');
             }
         });
 }
